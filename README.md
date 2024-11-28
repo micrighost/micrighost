@@ -14,7 +14,7 @@
 
  <div>
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micrighost&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micrighost&show_icons=true&theme=dark" height="192px"  width="400px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micrighost&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="400px"/>
 </div>
 

@@ -1,7 +1,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/l3AzYLeRN2QCfnxY1c/giphy.gif?cid=790b7611q2968v6vcdk2rjr60ee12u1w8n0epl5v8q77n9ej&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"> 很高興認識你
 
-Hi!我是Deemo，這裡留有過去我使用TensorFlow來開發一些預測股票的作品，以及我用MQL5開發的一些關於外匯的策略跟分析，有興趣的歡迎分享看法交流討論。
+我是Deemo，這裡留有過去我使用TensorFlow來開發一些預測股票的作品，以及我用MQL5開發的一些關於外匯的策略跟分析，有興趣的歡迎分享看法交流討論。
 
 ### 技能👋😁
 - 3年以上使用Python![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)，MQL5![MQL5](https://img.shields.io/badge/MT5-MQL5-red)開發經歷。

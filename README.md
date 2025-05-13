@@ -52,7 +52,7 @@
 
 ##  我的 GitHub 統計數據 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micrighost&langs_count=10&show_icons=true&locale=zh-tw&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="355px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=micrighost&langs_count=10&show_icons=true&locale=zh-tw&layout=compact&theme=dark" alt="Gift's language" height="200px"  width="700px"/>
 </div>
 
 

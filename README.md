@@ -42,8 +42,8 @@
 
 ## 我的 GitHub 統計數據 <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micrighost&langs_count=10&show_icons=true&locale=zh-tw&layout=compact&theme=dark" alt="Gift's language" style="width: 100%; height: auto;" />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micrighost&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micrighost&langs_count=10&show_icons=true&locale=zh-tw&layout=compact&theme=dark" alt="Gift's language" style="width: auto; height: auto;" />
+
 </div>
 
 ## 我的 GitHub 訪客數據 <img src="https://media1.giphy.com/media/47rD4FjGW0KFDM1WAE/200.webp?cid=790b7611bbf43majnm2cwujqtm2d6dha6medpapxnddb7loi&ep=v1_stickers_search&rid=200.webp&ct=s" width="50px"> 
